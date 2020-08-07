@@ -32,5 +32,12 @@ alertmanager
 k8s 
 ```
 ### 设计原型思路
-![图1]
-(https://github.com/573009114/alert/blob/master/doc/1.png)
+![image](https://github.com/573009114/alert/blob/master/doc/1.png)
+![image](https://github.com/573009114/alert/blob/master/doc/2.png)
+![image](https://github.com/573009114/alert/blob/master/doc/3.png)
+![image](https://github.com/573009114/alert/blob/master/doc/4.png)
+![image](https://github.com/573009114/alert/blob/master/doc/5.png)
+![image](https://github.com/573009114/alert/blob/master/doc/6.png)
+![image](https://github.com/573009114/alert/blob/master/doc/7.png)
+![image](https://github.com/573009114/alert/blob/master/doc/8.png)
+
