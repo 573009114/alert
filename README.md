@@ -33,4 +33,4 @@ k8s
 ```
 ### 设计原型思路
 ![图1]
-()
+(https://github.com/573009114/alert/blob/master/doc/1.png)
